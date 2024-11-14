@@ -1,0 +1,52 @@
+/*This file adds styling to the navigation bar*/
+
+/* styles/navbar.css */
+
+.navbar {
+    position: fixed; /* Keeps the navbar at the top */
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 16px;
+    background-color: rgba(255, 217, 102, 0.9); /* Slightly transparent background */
+    z-index: 1000; /* Ensure it's above other content */
+    height: 60px;
+}
+
+/*
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 16px;
+    background-color: #ffd966;
+    height: 60px;
+}
+*/
+  
+.navbar-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
+  
+.navbar-icon {
+    margin-right: 20px;
+}
+  
+.navbar-link {
+    margin: 0 30px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #333;
+}
+  
+.nav-link:hover {
+    color: #007bff;
+}
+  
+  

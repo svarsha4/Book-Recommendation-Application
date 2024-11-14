@@ -1,0 +1,804 @@
+{
+ "book": [
+  {
+   "name": "Dune (Dune, #1)",
+   "url": "https://www.goodreads.com/book/show/44767458-dune",
+   "author": "Frank Herbert",
+   "author_url": "https://www.goodreads.com/author/show/58.Frank_Herbert",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/44767458-dune"
+  },
+  {
+   "name": "Ender’s Game (Ender's Saga, #1)",
+   "url": "https://www.goodreads.com/book/show/375802.Ender_s_Game",
+   "author": "Orson Scott Card",
+   "author_url": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
+  },
+  {
+   "name": "The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+   "url": "https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy",
+   "author": "Douglas Adams",
+   "author_url": "https://www.goodreads.com/author/show/4.Douglas_Adams",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy"
+  },
+  {
+   "name": "1984",
+   "url": "https://www.goodreads.com/book/show/61439040-1984",
+   "author": "George Orwell",
+   "author_url": "https://www.goodreads.com/author/show/3706.George_Orwell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/61439040-1984"
+  },
+  {
+   "name": "Fahrenheit 451",
+   "url": "https://www.goodreads.com/book/show/13079982-fahrenheit-451",
+   "author": "Ray Bradbury",
+   "author_url": "https://www.goodreads.com/author/show/1630.Ray_Bradbury",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13079982-fahrenheit-451"
+  },
+  {
+   "name": "Foundation (Foundation, #1)",
+   "url": "https://www.goodreads.com/book/show/29579.Foundation",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846i/29579._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/29579.Foundation"
+  },
+  {
+   "name": "Brave New World",
+   "url": "https://www.goodreads.com/book/show/5129.Brave_New_World",
+   "author": "Aldous Huxley",
+   "author_url": "https://www.goodreads.com/author/show/3487.Aldous_Huxley",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+  },
+  {
+   "name": "Hyperion (Hyperion Cantos, #1)",
+   "url": "https://www.goodreads.com/book/show/77566.Hyperion",
+   "author": "Dan Simmons",
+   "author_url": "https://www.goodreads.com/author/show/2687.Dan_Simmons",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838i/77566._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77566.Hyperion"
+  },
+  {
+   "name": "Do Androids Dream of Electric Sheep?",
+   "url": "https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep",
+   "author": "Philip K. Dick",
+   "author_url": "https://www.goodreads.com/author/show/4764.Philip_K_Dick",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927i/36402034._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep"
+  },
+  {
+   "name": "The Martian",
+   "url": "https://www.goodreads.com/book/show/18007564-the-martian",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18007564-the-martian"
+  },
+  {
+   "name": "2001: A Space Odyssey (Space Odyssey, #1)",
+   "url": "https://www.goodreads.com/book/show/70535.2001",
+   "author": "Arthur C. Clarke",
+   "author_url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432468943i/70535._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/70535.2001"
+  },
+  {
+   "name": "I, Robot (Robot, #0.1)",
+   "url": "https://www.goodreads.com/book/show/41804.I_Robot",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271i/41804._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41804.I_Robot"
+  },
+  {
+   "name": "Slaughterhouse-Five",
+   "url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five",
+   "author": "Kurt Vonnegut Jr.",
+   "author_url": "https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+  },
+  {
+   "name": "Ready Player One (Ready Player One, #1)",
+   "url": "https://www.goodreads.com/book/show/9969571-ready-player-one",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/31712.Ernest_Cline",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/9969571-ready-player-one"
+  },
+  {
+   "name": "The Foundation Trilogy (Foundation, #1-3)",
+   "url": "https://www.goodreads.com/book/show/46654.The_Foundation_Trilogy",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316412178i/46654._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/46654.The_Foundation_Trilogy"
+  },
+  {
+   "name": "Stranger in a Strange Land",
+   "url": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land",
+   "author": "Robert A. Heinlein",
+   "author_url": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088i/350._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land"
+  },
+  {
+   "name": "The Hunger Games (The Hunger Games, #1)",
+   "url": "https://www.goodreads.com/book/show/2767052-the-hunger-games",
+   "author": "Suzanne Collins",
+   "author_url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  },
+  {
+   "name": "Neuromancer (Sprawl, #1)",
+   "url": "https://www.goodreads.com/book/show/6088007-neuromancer",
+   "author": "William Gibson",
+   "author_url": "https://www.goodreads.com/author/show/9226.William_Gibson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6088007-neuromancer"
+  },
+  {
+   "name": "The Left Hand of Darkness",
+   "url": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness",
+   "author": "Ursula K. Le Guin",
+   "author_url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612i/18423._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness"
+  },
+  {
+   "name": "Childhood’s End",
+   "url": "https://www.goodreads.com/book/show/414999.Childhood_s_End",
+   "author": "Arthur C. Clarke",
+   "author_url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320552628i/414999._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/414999.Childhood_s_End"
+  },
+  {
+   "name": "The Martian Chronicles",
+   "url": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles",
+   "author": "Ray Bradbury",
+   "author_url": "https://www.goodreads.com/author/show/1630.Ray_Bradbury",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661016554i/76778._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles"
+  },
+  {
+   "name": "Frankenstein: The 1818 Text",
+   "url": "https://www.goodreads.com/book/show/35031085-frankenstein",
+   "author": "Mary Wollstonecraft Shelley",
+   "author_url": "https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/35031085-frankenstein"
+  },
+  {
+   "name": "Flowers for Algernon",
+   "url": "https://www.goodreads.com/book/show/18373.Flowers_for_Algernon",
+   "author": "Daniel Keyes",
+   "author_url": "https://www.goodreads.com/author/show/11072.Daniel_Keyes",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689071681i/18373._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18373.Flowers_for_Algernon"
+  },
+  {
+   "name": "The Forever War (The Forever War, #1)",
+   "url": "https://www.goodreads.com/book/show/21611.The_Forever_War",
+   "author": "Joe Haldeman",
+   "author_url": "https://www.goodreads.com/author/show/12476.Joe_Haldeman",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511i/21611._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/21611.The_Forever_War"
+  },
+  {
+   "name": "The Time Machine",
+   "url": "https://www.goodreads.com/book/show/2493.The_Time_Machine",
+   "author": "H.G. Wells",
+   "author_url": "https://www.goodreads.com/author/show/880695.H_G_Wells",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880i/2493._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2493.The_Time_Machine"
+  },
+  {
+   "name": "Jurassic Park (Jurassic Park, #1)",
+   "url": "https://www.goodreads.com/book/show/40604658-jurassic-park",
+   "author": "Michael Crichton",
+   "author_url": "https://www.goodreads.com/author/show/5194.Michael_Crichton",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40604658-jurassic-park"
+  },
+  {
+   "name": "The Handmaid’s Tale (The Handmaid's Tale, #1)",
+   "url": "https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3472.Margaret_Atwood",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale"
+  },
+  {
+   "name": "Rendezvous with Rama (Rama, #1)",
+   "url": "https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama",
+   "author": "Arthur C. Clarke",
+   "author_url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405456427i/112537._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama"
+  },
+  {
+   "name": "The War of the Worlds",
+   "url": "https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds",
+   "author": "H.G. Wells",
+   "author_url": "https://www.goodreads.com/author/show/880695.H_G_Wells",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644i/8909._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
+  },
+  {
+   "name": "Snow Crash",
+   "url": "https://www.goodreads.com/book/show/40651883-snow-crash",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40651883-snow-crash"
+  },
+  {
+   "name": "Speaker for the Dead (Ender's Saga, #2)",
+   "url": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead",
+   "author": "Orson Scott Card",
+   "author_url": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894i/7967._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead"
+  },
+  {
+   "name": "Starship Troopers",
+   "url": "https://www.goodreads.com/book/show/17214.Starship_Troopers",
+   "author": "Robert A. Heinlein",
+   "author_url": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412i/17214._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/17214.Starship_Troopers"
+  },
+  {
+   "name": "Animal Farm",
+   "url": "https://www.goodreads.com/book/show/170448.Animal_Farm",
+   "author": "George Orwell",
+   "author_url": "https://www.goodreads.com/author/show/3706.George_Orwell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/170448.Animal_Farm"
+  },
+  {
+   "name": "The Moon Is a Harsh Mistress",
+   "url": "https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress",
+   "author": "Robert A. Heinlein",
+   "author_url": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348768309i/16690._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress"
+  },
+  {
+   "name": "Old Man's War (Old Man's War, #1)",
+   "url": "https://www.goodreads.com/book/show/36510196-old-man-s-war",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509467059i/36510196._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/36510196-old-man-s-war"
+  },
+  {
+   "name": "A Canticle for Leibowitz (St. Leibowitz, #1)",
+   "url": "https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz",
+   "author": "Walter M. Miller Jr.",
+   "author_url": "https://www.goodreads.com/author/show/6025722.Walter_M_Miller_Jr_",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450516880i/164154._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz"
+  },
+  {
+   "name": "A Clockwork Orange",
+   "url": "https://www.goodreads.com/book/show/41817486-a-clockwork-orange",
+   "author": "Anthony Burgess",
+   "author_url": "https://www.goodreads.com/author/show/5735.Anthony_Burgess",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060i/41817486._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41817486-a-clockwork-orange"
+  },
+  {
+   "name": "A Wrinkle in Time (Time Quintet, #1)",
+   "url": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time",
+   "author": "Madeleine L'Engle",
+   "author_url": "https://www.goodreads.com/author/show/106.Madeleine_L_Engle",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312i/33574273._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time"
+  },
+  {
+   "name": "The Dispossessed: An Ambiguous Utopia",
+   "url": "https://www.goodreads.com/book/show/13651.The_Dispossessed",
+   "author": "Ursula K. Le Guin",
+   "author_url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353467455i/13651._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13651.The_Dispossessed"
+  },
+  {
+   "name": "Solaris",
+   "url": "https://www.goodreads.com/book/show/95558.Solaris",
+   "author": "Stanisław Lem",
+   "author_url": "https://www.goodreads.com/author/show/10991.Stanis_aw_Lem",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519i/95558._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/95558.Solaris"
+  },
+  {
+   "name": "Ringworld (Ringworld, #1)",
+   "url": "https://www.goodreads.com/book/show/61179.Ringworld",
+   "author": "Larry Niven",
+   "author_url": "https://www.goodreads.com/author/show/12534.Larry_Niven",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408793358i/61179._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/61179.Ringworld"
+  },
+  {
+   "name": "The Stand",
+   "url": "https://www.goodreads.com/book/show/149267.The_Stand",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3389.Stephen_King",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213131305i/149267._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/149267.The_Stand"
+  },
+  {
+   "name": "Foundation and Empire (Foundation, #2)",
+   "url": "https://www.goodreads.com/book/show/29581.Foundation_and_Empire",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612i/29581._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/29581.Foundation_and_Empire"
+  },
+  {
+   "name": "The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+   "url": "https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy",
+   "author": "Douglas Adams",
+   "author_url": "https://www.goodreads.com/author/show/4.Douglas_Adams",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404613595i/13._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy"
+  },
+  {
+   "name": "Contact",
+   "url": "https://www.goodreads.com/book/show/61666.Contact",
+   "author": "Carl Sagan",
+   "author_url": "https://www.goodreads.com/author/show/10538.Carl_Sagan",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602082958i/61666._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/61666.Contact"
+  },
+  {
+   "name": "Ubik",
+   "url": "https://www.goodreads.com/book/show/22590.Ubik",
+   "author": "Philip K. Dick",
+   "author_url": "https://www.goodreads.com/author/show/4764.Philip_K_Dick",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327995569i/22590._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/22590.Ubik"
+  },
+  {
+   "name": "The Fall of Hyperion (Hyperion Cantos, #2)",
+   "url": "https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion",
+   "author": "Dan Simmons",
+   "author_url": "https://www.goodreads.com/author/show/2687.Dan_Simmons",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541174620i/77565._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion"
+  },
+  {
+   "name": "The Road",
+   "url": "https://www.goodreads.com/book/show/6288.The_Road",
+   "author": "Cormac McCarthy",
+   "author_url": "https://www.goodreads.com/author/show/4178.Cormac_McCarthy",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6288.The_Road"
+  },
+  {
+   "name": "A Fire Upon the Deep (Zones of Thought, #1)",
+   "url": "https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep",
+   "author": "Vernor Vinge",
+   "author_url": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333915005i/77711._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep"
+  },
+  {
+   "name": "Second Foundation (Foundation, #3)",
+   "url": "https://www.goodreads.com/book/show/29580.Second_Foundation",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922i/29580._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/29580.Second_Foundation"
+  },
+  {
+   "name": "Leviathan Wakes (The Expanse, #1)",
+   "url": "https://www.goodreads.com/book/show/8855321-leviathan-wakes",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134i/8855321._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/8855321-leviathan-wakes"
+  },
+  {
+   "name": "The Stars My Destination",
+   "url": "https://www.goodreads.com/book/show/333867.The_Stars_My_Destination",
+   "author": "Alfred Bester",
+   "author_url": "https://www.goodreads.com/author/show/10992.Alfred_Bester",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433671750i/333867._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/333867.The_Stars_My_Destination"
+  },
+  {
+   "name": "The Man in the High Castle",
+   "url": "https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle",
+   "author": "Philip K. Dick",
+   "author_url": "https://www.goodreads.com/author/show/4764.Philip_K_Dick",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448756803i/216363._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle"
+  },
+  {
+   "name": "I Am Legend",
+   "url": "https://www.goodreads.com/book/show/40940649-i-am-legend",
+   "author": "Richard Matheson",
+   "author_url": "https://www.goodreads.com/author/show/8726.Richard_Matheson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532484265i/40940649._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40940649-i-am-legend"
+  },
+  {
+   "name": "Ender's Shadow (The Shadow Series, #1)",
+   "url": "https://www.goodreads.com/book/show/9532.Ender_s_Shadow",
+   "author": "Orson Scott Card",
+   "author_url": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424904668i/9532._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/9532.Ender_s_Shadow"
+  },
+  {
+   "name": "The Giver (The Giver, #1)",
+   "url": "https://www.goodreads.com/book/show/3636.The_Giver",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2493.Lois_Lowry",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/3636.The_Giver"
+  },
+  {
+   "name": "The Mote in God's Eye (Moties, #1)",
+   "url": "https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye",
+   "author": "Larry Niven",
+   "author_url": "https://www.goodreads.com/author/show/12534.Larry_Niven",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399490037i/100365._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye"
+  },
+  {
+   "name": "The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",
+   "url": "https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe",
+   "author": "Douglas Adams",
+   "author_url": "https://www.goodreads.com/author/show/4.Douglas_Adams",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881i/8695._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe"
+  },
+  {
+   "name": "The Caves of Steel (Robot, #1)",
+   "url": "https://www.goodreads.com/book/show/41811.The_Caves_of_Steel",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782224i/41811._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41811.The_Caves_of_Steel"
+  },
+  {
+   "name": "Cat’s Cradle",
+   "url": "https://www.goodreads.com/book/show/135479.Cat_s_Cradle",
+   "author": "Kurt Vonnegut Jr.",
+   "author_url": "https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150i/135479._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/135479.Cat_s_Cradle"
+  },
+  {
+   "name": "Dome: Rebellion (Dome, #1)",
+   "url": "https://www.goodreads.com/book/show/65151985-dome",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/22199652.Johnathon_Nicolaou",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670738486i/65151985._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/65151985-dome"
+  },
+  {
+   "name": "World War Z: An Oral History of the Zombie War",
+   "url": "https://www.goodreads.com/book/show/8908.World_War_Z",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/5791.Max_Brooks",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528312647i/8908._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/8908.World_War_Z"
+  },
+  {
+   "name": "Red Mars (Mars Trilogy, #1)",
+   "url": "https://www.goodreads.com/book/show/77507.Red_Mars",
+   "author": "Kim Stanley Robinson",
+   "author_url": "https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660272828i/77507._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77507.Red_Mars"
+  },
+  {
+   "name": "Of Monsters And Planes",
+   "url": "https://www.goodreads.com/book/show/150184023-of-monsters-and-planes",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/22199652.Johnathon_Nicolaou",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683387564i/150184023._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/150184023-of-monsters-and-planes"
+  },
+  {
+   "name": "The Player of Games (Culture, #2)",
+   "url": "https://www.goodreads.com/book/show/18630.The_Player_of_Games",
+   "author": "Iain M. Banks",
+   "author_url": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922873i/18630._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18630.The_Player_of_Games"
+  },
+  {
+   "name": "Dr. Jekyll and Mr. Hyde",
+   "url": "https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde",
+   "author": "Robert Louis Stevenson",
+   "author_url": "https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526i/51496._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde"
+  },
+  {
+   "name": "Wool Omnibus (Silo, #1)",
+   "url": "https://www.goodreads.com/book/show/13453029-wool-omnibus",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3064305.Hugh_Howey",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200i/13453029._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13453029-wool-omnibus"
+  },
+  {
+   "name": "Journey to the Center of the Earth",
+   "url": "https://www.goodreads.com/book/show/32829.Journey_to_the_Center_of_the_Earth",
+   "author": "Jules Verne",
+   "author_url": "https://www.goodreads.com/author/show/696805.Jules_Verne",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389754903i/32829._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32829.Journey_to_the_Center_of_the_Earth"
+  },
+  {
+   "name": "The Diamond Age: Or, a Young Lady's Illustrated Primer",
+   "url": "https://www.goodreads.com/book/show/827.The_Diamond_Age",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388180931i/827._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/827.The_Diamond_Age"
+  },
+  {
+   "name": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
+   "url": "https://www.goodreads.com/book/show/20518872-the-three-body-problem",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/20518872-the-three-body-problem"
+  },
+  {
+   "name": "The Gods Themselves",
+   "url": "https://www.goodreads.com/book/show/41821.The_Gods_Themselves",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351076141i/41821._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41821.The_Gods_Themselves"
+  },
+  {
+   "name": "Never Let Me Go",
+   "url": "https://www.goodreads.com/book/show/6334.Never_Let_Me_Go",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6334.Never_Let_Me_Go"
+  },
+  {
+   "name": "The Illustrated Man",
+   "url": "https://www.goodreads.com/book/show/24830.The_Illustrated_Man",
+   "author": "Ray Bradbury",
+   "author_url": "https://www.goodreads.com/author/show/1630.Ray_Bradbury",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374049820i/24830._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/24830.The_Illustrated_Man"
+  },
+  {
+   "name": "Doomsday Book (Oxford Time Travel, #1)",
+   "url": "https://www.goodreads.com/book/show/24983.Doomsday_Book",
+   "author": "Connie Willis",
+   "author_url": "https://www.goodreads.com/author/show/14032.Connie_Willis",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403972500i/24983._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/24983.Doomsday_Book"
+  },
+  {
+   "name": "Gateway (Heechee Saga, #1)",
+   "url": "https://www.goodreads.com/book/show/218427.Gateway",
+   "author": "Frederik Pohl",
+   "author_url": "https://www.goodreads.com/author/show/22996.Frederik_Pohl",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400i/218427._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/218427.Gateway"
+  },
+  {
+   "name": "The Day of the Triffids",
+   "url": "https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids",
+   "author": "John Wyndham",
+   "author_url": "https://www.goodreads.com/author/show/36332.John_Wyndham",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320530145i/530965._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/530965.The_Day_of_the_Triffids"
+  },
+  {
+   "name": "Revelation Space (Revelation Space, #1)",
+   "url": "https://www.goodreads.com/book/show/89187.Revelation_Space",
+   "author": "Alastair Reynolds",
+   "author_url": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532042i/89187._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/89187.Revelation_Space"
+  },
+  {
+   "name": "The Lathe of Heaven",
+   "url": "https://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven",
+   "author": "Ursula K. Le Guin",
+   "author_url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433084322i/59924._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven"
+  },
+  {
+   "name": "Altered Carbon (Takeshi Kovacs, #1)",
+   "url": "https://www.goodreads.com/book/show/40792913-altered-carbon",
+   "author": "Richard K. Morgan",
+   "author_url": "https://www.goodreads.com/author/show/16496.Richard_K_Morgan",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531415180i/40792913._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40792913-altered-carbon"
+  },
+  {
+   "name": "Roadside Picnic",
+   "url": "https://www.goodreads.com/book/show/331256.Roadside_Picnic",
+   "author": "Arkady Strugatsky",
+   "author_url": "https://www.goodreads.com/author/show/1159886.Arkady_Strugatsky",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173812259i/331256._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/331256.Roadside_Picnic"
+  },
+  {
+   "name": "A Scanner Darkly",
+   "url": "https://www.goodreads.com/book/show/14817.A_Scanner_Darkly",
+   "author": "Philip K. Dick",
+   "author_url": "https://www.goodreads.com/author/show/4764.Philip_K_Dick",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388737865i/14817._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/14817.A_Scanner_Darkly"
+  },
+  {
+   "name": "Anathem",
+   "url": "https://www.goodreads.com/book/show/2845024-anathem",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488349209i/2845024._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2845024-anathem"
+  },
+  {
+   "name": "Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",
+   "url": "https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea",
+   "author": "Jules Verne",
+   "author_url": "https://www.goodreads.com/author/show/696805.Jules_Verne",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494979127i/33507._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea"
+  },
+  {
+   "name": "The Chain Between Worlds (The Lost Artefacts #1)",
+   "url": "https://www.goodreads.com/book/show/60288648-the-chain-between-worlds",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/22199652.Johnathon_Nicolaou",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643771474i/60288648._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/60288648-the-chain-between-worlds"
+  },
+  {
+   "name": "The End of Eternity",
+   "url": "https://www.goodreads.com/book/show/509784.The_End_of_Eternity",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405527675i/509784._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/509784.The_End_of_Eternity"
+  },
+  {
+   "name": "The Andromeda Strain (Andromeda, #1)",
+   "url": "https://www.goodreads.com/book/show/7670.The_Andromeda_Strain",
+   "author": "Michael Crichton",
+   "author_url": "https://www.goodreads.com/author/show/5194.Michael_Crichton",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587497243i/7670._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7670.The_Andromeda_Strain"
+  },
+  {
+   "name": "Foundation's Edge (Foundation, #4)",
+   "url": "https://www.goodreads.com/book/show/76683.Foundation_s_Edge",
+   "author": "Isaac Asimov",
+   "author_url": "https://www.goodreads.com/author/show/16667.Isaac_Asimov",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442311409i/76683._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/76683.Foundation_s_Edge"
+  },
+  {
+   "name": "Use of Weapons (Culture, #3)",
+   "url": "https://www.goodreads.com/book/show/12007.Use_of_Weapons",
+   "author": "Iain M. Banks",
+   "author_url": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587400756i/12007._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/12007.Use_of_Weapons"
+  },
+  {
+   "name": "The Invisible Man",
+   "url": "https://www.goodreads.com/book/show/17184.The_Invisible_Man",
+   "author": "H.G. Wells",
+   "author_url": "https://www.goodreads.com/author/show/880695.H_G_Wells",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630661776i/17184._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/17184.The_Invisible_Man"
+  },
+  {
+   "name": "The Sparrow (The Sparrow, #1)",
+   "url": "https://www.goodreads.com/book/show/334176.The_Sparrow",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/4007.Mary_Doria_Russell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1230829367i/334176._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/334176.The_Sparrow"
+  },
+  {
+   "name": "The Sirens of Titan",
+   "url": "https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan",
+   "author": "Kurt Vonnegut Jr.",
+   "author_url": "https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419363185i/4982._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan"
+  },
+  {
+   "name": "Lord of Light",
+   "url": "https://www.goodreads.com/book/show/13821.Lord_of_Light",
+   "author": "Roger Zelazny",
+   "author_url": "https://www.goodreads.com/author/show/3619.Roger_Zelazny",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330127327i/13821._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13821.Lord_of_Light"
+  },
+  {
+   "name": "Pandora's Star (Commonwealth Saga, #1)",
+   "url": "https://www.goodreads.com/book/show/45252.Pandora_s_Star",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/25375.Peter_F_Hamilton",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949i/45252._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/45252.Pandora_s_Star"
+  },
+  {
+   "name": "Ancillary Justice (Imperial Radch, #1)",
+   "url": "https://www.goodreads.com/book/show/17333324-ancillary-justice",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3365457.Ann_Leckie",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397215917i/17333324._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/17333324-ancillary-justice"
+  },
+  {
+   "name": "The Windup Girl",
+   "url": "https://www.goodreads.com/book/show/6597651-the-windup-girl",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278940608i/6597651._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6597651-the-windup-girl"
+  },
+  {
+   "name": "Parable of the Sower (Earthseed, #1)",
+   "url": "https://www.goodreads.com/book/show/52397.Parable_of_the_Sower",
+   "author": "Octavia E. Butler",
+   "author_url": "https://www.goodreads.com/author/show/29535.Octavia_E_Butler",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442169447i/52397._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/52397.Parable_of_the_Sower"
+  },
+  {
+   "name": "A Princess of Mars (Barsoom, #1)",
+   "url": "https://www.goodreads.com/book/show/40395.A_Princess_of_Mars",
+   "author": "Edgar Rice Burroughs",
+   "author_url": "https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332272118i/40395._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40395.A_Princess_of_Mars"
+  },
+  {
+   "name": "We",
+   "url": "https://www.goodreads.com/book/show/76171.We",
+   "author": "Yevgeny Zamyatin",
+   "author_url": "https://www.goodreads.com/author/show/43298.Yevgeny_Zamyatin",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627438181i/76171._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/76171.We"
+  },
+  {
+   "name": "Way Station",
+   "url": "https://www.goodreads.com/book/show/190999.Way_Station",
+   "author": "Clifford D. Simak",
+   "author_url": "https://www.goodreads.com/author/show/23012.Clifford_D_Simak",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326490682i/190999._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/190999.Way_Station"
+  },
+  {
+   "name": "The City and the Stars",
+   "url": "https://www.goodreads.com/book/show/250024.The_City_and_the_Stars",
+   "author": "Arthur C. Clarke",
+   "author_url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340242824i/250024._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/250024.The_City_and_the_Stars"
+  }
+ ]
+}

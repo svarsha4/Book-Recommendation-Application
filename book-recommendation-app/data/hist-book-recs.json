@@ -1,0 +1,804 @@
+{
+ "book": [
+  {
+   "name": "Memoirs of a Geisha",
+   "url": "https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha",
+   "author": "Arthur Golden",
+   "author_url": "https://www.goodreads.com/author/show/614.Arthur_Golden",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409595968i/929._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha"
+  },
+  {
+   "name": "Gone with the Wind",
+   "url": "https://www.goodreads.com/book/show/18405.Gone_with_the_Wind",
+   "author": "Margaret Mitchell",
+   "author_url": "https://www.goodreads.com/author/show/11081.Margaret_Mitchell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18405.Gone_with_the_Wind"
+  },
+  {
+   "name": "The Pillars of the Earth (Kingsbridge, #1)",
+   "url": "https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3447.Ken_Follett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100i/5043._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth"
+  },
+  {
+   "name": "The Book Thief",
+   "url": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/11466.Markus_Zusak",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/19063.The_Book_Thief"
+  },
+  {
+   "name": "The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",
+   "url": "https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/9987.Philippa_Gregory",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355932638i/37470._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl"
+  },
+  {
+   "name": "The Red Tent",
+   "url": "https://www.goodreads.com/book/show/4989.The_Red_Tent",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/626222.Anita_Diamant",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405739117i/4989._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/4989.The_Red_Tent"
+  },
+  {
+   "name": "A Tale of Two Cities",
+   "url": "https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities",
+   "author": "Charles Dickens",
+   "author_url": "https://www.goodreads.com/author/show/239579.Charles_Dickens",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344922523i/1953._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities"
+  },
+  {
+   "name": "Girl with a Pearl Earring",
+   "url": "https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/1973.Tracy_Chevalier",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327197580i/2865._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring"
+  },
+  {
+   "name": "Shōgun (Asian Saga, #1)",
+   "url": "https://www.goodreads.com/book/show/52382796-sh-gun",
+   "author": "James Clavell",
+   "author_url": "https://www.goodreads.com/author/show/6417.James_Clavell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704385704i/52382796._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/52382796-sh-gun"
+  },
+  {
+   "name": "The Thorn Birds",
+   "url": "https://www.goodreads.com/book/show/3412.The_Thorn_Birds",
+   "author": "Colleen McCullough",
+   "author_url": "https://www.goodreads.com/author/show/4917067.Colleen_McCullough",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548530867i/3412._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/3412.The_Thorn_Birds"
+  },
+  {
+   "name": "The Clan of the Cave Bear (Earth's Children, #1)",
+   "url": "https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear",
+   "author": "Jean M. Auel",
+   "author_url": "https://www.goodreads.com/author/show/861.Jean_M_Auel",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529681430i/40611463._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear"
+  },
+  {
+   "name": "The Name of the Rose",
+   "url": "https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose",
+   "author": "Umberto Eco",
+   "author_url": "https://www.goodreads.com/author/show/1730.Umberto_Eco",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose"
+  },
+  {
+   "name": "World Without End (Kingsbridge, #2)",
+   "url": "https://www.goodreads.com/book/show/5064.World_Without_End",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3447.Ken_Follett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509545511i/5064._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5064.World_Without_End"
+  },
+  {
+   "name": "Snow Flower and the Secret Fan",
+   "url": "https://www.goodreads.com/book/show/40873273-snow-flower-and-the-secret-fan",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/713.Lisa_See",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532005164i/40873273._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40873273-snow-flower-and-the-secret-fan"
+  },
+  {
+   "name": "The Historian",
+   "url": "https://www.goodreads.com/book/show/10692.The_Historian",
+   "author": "Elizabeth Kostova",
+   "author_url": "https://www.goodreads.com/author/show/5918.Elizabeth_Kostova",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338298031i/10692._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10692.The_Historian"
+  },
+  {
+   "name": "The Color Purple",
+   "url": "https://www.goodreads.com/book/show/11486.The_Color_Purple",
+   "author": "Alice Walker",
+   "author_url": "https://www.goodreads.com/author/show/7380.Alice_Walker",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556348375i/11486._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/11486.The_Color_Purple"
+  },
+  {
+   "name": "Dragonfly in Amber (Outlander, #2)",
+   "url": "https://www.goodreads.com/book/show/5364.Dragonfly_in_Amber",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3617.Diana_Gabaldon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456114344i/5364._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5364.Dragonfly_in_Amber"
+  },
+  {
+   "name": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
+   "url": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind",
+   "author": "Carlos Ruiz Zafón",
+   "author_url": "https://www.goodreads.com/author/show/815.Carlos_Ruiz_Zaf_n",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628791882i/1232._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
+  },
+  {
+   "name": "Lonesome Dove (Lonesome Dove, #1)",
+   "url": "https://www.goodreads.com/book/show/256008.Lonesome_Dove",
+   "author": "Larry McMurtry",
+   "author_url": "https://www.goodreads.com/author/show/1055.Larry_McMurtry",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559668037i/256008._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/256008.Lonesome_Dove"
+  },
+  {
+   "name": "The Guernsey Literary and Potato Peel Pie Society",
+   "url": "https://www.goodreads.com/book/show/39832183-the-guernsey-literary-and-potato-peel-pie-society",
+   "author": "Mary Ann Shaffer",
+   "author_url": "https://www.goodreads.com/author/show/1194527.Mary_Ann_Shaffer",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529026760i/39832183._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/39832183-the-guernsey-literary-and-potato-peel-pie-society"
+  },
+  {
+   "name": "The Scarlet Letter",
+   "url": "https://www.goodreads.com/book/show/12296.The_Scarlet_Letter",
+   "author": "Nathaniel Hawthorne",
+   "author_url": "https://www.goodreads.com/author/show/7799.Nathaniel_Hawthorne",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404810944i/12296._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/12296.The_Scarlet_Letter"
+  },
+  {
+   "name": "Cold Mountain",
+   "url": "https://www.goodreads.com/book/show/10920.Cold_Mountain",
+   "author": "Charles Frazier",
+   "author_url": "https://www.goodreads.com/author/show/7130.Charles_Frazier",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442416348i/10920._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10920.Cold_Mountain"
+  },
+  {
+   "name": "Roots: The Saga of an American Family",
+   "url": "https://www.goodreads.com/book/show/546018.Roots",
+   "author": "Alex Haley",
+   "author_url": "https://www.goodreads.com/author/show/17434.Alex_Haley",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329398936i/546018._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/546018.Roots"
+  },
+  {
+   "name": "The Three Musketeers",
+   "url": "https://www.goodreads.com/book/show/7190.The_Three_Musketeers",
+   "author": "Alexandre Dumas",
+   "author_url": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630475503i/7190._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7190.The_Three_Musketeers"
+  },
+  {
+   "name": "I, Claudius (Claudius, #1)",
+   "url": "https://www.goodreads.com/book/show/18765.I_Claudius",
+   "author": "Robert Graves",
+   "author_url": "https://www.goodreads.com/author/show/3012988.Robert_Graves",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657550972i/18765._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18765.I_Claudius"
+  },
+  {
+   "name": "All the Light We Cannot See",
+   "url": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/28186.Anthony_Doerr",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646i/18143977._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see"
+  },
+  {
+   "name": "Atonement",
+   "url": "https://www.goodreads.com/book/show/6867.Atonement",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2408.Ian_McEwan",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449708i/6867._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6867.Atonement"
+  },
+  {
+   "name": "One Hundred Years of Solitude",
+   "url": "https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude",
+   "author": "Gabriel García Márquez",
+   "author_url": "https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude"
+  },
+  {
+   "name": "Year of Wonders",
+   "url": "https://www.goodreads.com/book/show/4965.Year_of_Wonders",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/211268.Geraldine_Brooks",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678314640i/4965._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/4965.Year_of_Wonders"
+  },
+  {
+   "name": "Sarah's Key",
+   "url": "https://www.goodreads.com/book/show/556602.Sarah_s_Key",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/305400.Tatiana_de_Rosnay",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438863728i/556602._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/556602.Sarah_s_Key"
+  },
+  {
+   "name": "Outlander (Outlander, #1)",
+   "url": "https://www.goodreads.com/book/show/10964.Outlander",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3617.Diana_Gabaldon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10964.Outlander"
+  },
+  {
+   "name": "Drums of Autumn (Outlander, #4)",
+   "url": "https://www.goodreads.com/book/show/10988.Drums_of_Autumn",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3617.Diana_Gabaldon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688941i/10988._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10988.Drums_of_Autumn"
+  },
+  {
+   "name": "The Crucible: A Play in Four Acts",
+   "url": "https://www.goodreads.com/book/show/17250.The_Crucible",
+   "author": "Arthur Miller",
+   "author_url": "https://www.goodreads.com/author/show/8120.Arthur_Miller",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547467608i/17250._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/17250.The_Crucible"
+  },
+  {
+   "name": "The Killer Angels (The Civil War Trilogy, #2)",
+   "url": "https://www.goodreads.com/book/show/682804.The_Killer_Angels",
+   "author": "Michael Shaara",
+   "author_url": "https://www.goodreads.com/author/show/16892.Michael_Shaara",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355371689i/682804._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/682804.The_Killer_Angels"
+  },
+  {
+   "name": "The Alienist (Dr. Laszlo Kreizler, #1)",
+   "url": "https://www.goodreads.com/book/show/40024.The_Alienist",
+   "author": "Caleb Carr",
+   "author_url": "https://www.goodreads.com/author/show/27779.Caleb_Carr",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388256626i/40024._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40024.The_Alienist"
+  },
+  {
+   "name": "The Fiery Cross (Outlander, #5)",
+   "url": "https://www.goodreads.com/book/show/10967.The_Fiery_Cross",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3617.Diana_Gabaldon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407366842i/10967._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10967.The_Fiery_Cross"
+  },
+  {
+   "name": "The Alchemist",
+   "url": "https://www.goodreads.com/book/show/18144590-the-alchemist",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/566.Paulo_Coelho",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18144590-the-alchemist"
+  },
+  {
+   "name": "A Breath of Snow and Ashes (Outlander, #6)",
+   "url": "https://www.goodreads.com/book/show/10965.A_Breath_of_Snow_and_Ashes",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3617.Diana_Gabaldon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197203i/10965._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10965.A_Breath_of_Snow_and_Ashes"
+  },
+  {
+   "name": "The Boy in the Striped Pajamas",
+   "url": "https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/7195.John_Boyne",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366228171i/39999._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas"
+  },
+  {
+   "name": "Like Water for Chocolate",
+   "url": "https://www.goodreads.com/book/show/6952.Like_Water_for_Chocolate",
+   "author": "Laura Esquivel",
+   "author_url": "https://www.goodreads.com/author/show/4694.Laura_Esquivel",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550721459i/6952._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6952.Like_Water_for_Chocolate"
+  },
+  {
+   "name": "Fall of Giants (The Century Trilogy, #1)",
+   "url": "https://www.goodreads.com/book/show/7315573-fall-of-giants",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3447.Ken_Follett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470384630i/7315573._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7315573-fall-of-giants"
+  },
+  {
+   "name": "The English Patient",
+   "url": "https://www.goodreads.com/book/show/11713.The_English_Patient",
+   "author": "Michael Ondaatje",
+   "author_url": "https://www.goodreads.com/author/show/4030.Michael_Ondaatje",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527907i/11713._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/11713.The_English_Patient"
+  },
+  {
+   "name": "Perfume: The Story of a Murderer",
+   "url": "https://www.goodreads.com/book/show/343.Perfume",
+   "author": "Patrick Süskind",
+   "author_url": "https://www.goodreads.com/author/show/39402.Patrick_S_skind",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276i/343._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/343.Perfume"
+  },
+  {
+   "name": "The Witch of Blackbird Pond",
+   "url": "https://www.goodreads.com/book/show/703292.The_Witch_of_Blackbird_Pond",
+   "author": "Elizabeth George Speare",
+   "author_url": "https://www.goodreads.com/author/show/7549.Elizabeth_George_Speare",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345499790i/703292._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/703292.The_Witch_of_Blackbird_Pond"
+  },
+  {
+   "name": "Katherine",
+   "url": "https://www.goodreads.com/book/show/33609.Katherine",
+   "author": "Anya Seton",
+   "author_url": "https://www.goodreads.com/author/show/18930.Anya_Seton",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436406825i/33609._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/33609.Katherine"
+  },
+  {
+   "name": "The Sunne in Splendour",
+   "url": "https://www.goodreads.com/book/show/119829.The_Sunne_in_Splendour",
+   "author": "Sharon Kay Penman",
+   "author_url": "https://www.goodreads.com/author/show/24655.Sharon_Kay_Penman",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361649213i/119829._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/119829.The_Sunne_in_Splendour"
+  },
+  {
+   "name": "The Agony and the Ecstasy",
+   "url": "https://www.goodreads.com/book/show/321552.The_Agony_and_the_Ecstasy",
+   "author": "Irving Stone",
+   "author_url": "https://www.goodreads.com/author/show/12833.Irving_Stone",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327879079i/321552._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/321552.The_Agony_and_the_Ecstasy"
+  },
+  {
+   "name": "Island of the Blue Dolphins",
+   "url": "https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins",
+   "author": "Scott O'Dell",
+   "author_url": "https://www.goodreads.com/author/show/4999.Scott_O_Dell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533405446i/41044096._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins"
+  },
+  {
+   "name": "The Scarlet Pimpernel",
+   "url": "https://www.goodreads.com/book/show/136116.The_Scarlet_Pimpernel",
+   "author": "Emmuska Orczy",
+   "author_url": "https://www.goodreads.com/author/show/2893961.Emmuska_Orczy",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406764899i/136116._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/136116.The_Scarlet_Pimpernel"
+  },
+  {
+   "name": "Fried Green Tomatoes at the Whistle Stop Cafe (Whistle Stop #1)",
+   "url": "https://www.goodreads.com/book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe",
+   "author": "Fannie Flagg",
+   "author_url": "https://www.goodreads.com/author/show/6125.Fannie_Flagg",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1165961740i/9375._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe"
+  },
+  {
+   "name": "Here Be Dragons (Welsh Princes, #1)",
+   "url": "https://www.goodreads.com/book/show/77449.Here_Be_Dragons",
+   "author": "Sharon Kay Penman",
+   "author_url": "https://www.goodreads.com/author/show/24655.Sharon_Kay_Penman",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448657042i/77449._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77449.Here_Be_Dragons"
+  },
+  {
+   "name": "Love in the Time of Cholera",
+   "url": "https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera",
+   "author": "Gabriel García Márquez",
+   "author_url": "https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644691354i/9712._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera"
+  },
+  {
+   "name": "Wolf Hall (Thomas Cromwell, #1)",
+   "url": "https://www.goodreads.com/book/show/6101138-wolf-hall",
+   "author": "Hilary Mantel",
+   "author_url": "https://www.goodreads.com/author/show/58851.Hilary_Mantel",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627203575i/6101138._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6101138-wolf-hall"
+  },
+  {
+   "name": "The Queen's Fool (The Plantagenet and Tudor Novels, #12)",
+   "url": "https://www.goodreads.com/book/show/252499.The_Queen_s_Fool",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/9987.Philippa_Gregory",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399204116i/252499._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/252499.The_Queen_s_Fool"
+  },
+  {
+   "name": "Pope Joan",
+   "url": "https://www.goodreads.com/book/show/27252.Pope_Joan",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/44605.Donna_Woolfolk_Cross",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386912604i/27252._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/27252.Pope_Joan"
+  },
+  {
+   "name": "The Boleyn Inheritance (The Plantagenet and Tudor Novels, #10)",
+   "url": "https://www.goodreads.com/book/show/16180.The_Boleyn_Inheritance",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/9987.Philippa_Gregory",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409318443i/16180._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16180.The_Boleyn_Inheritance"
+  },
+  {
+   "name": "The House of the Spirits",
+   "url": "https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2238.Isabel_Allende",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621672028i/9328._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits"
+  },
+  {
+   "name": "Moloka'i (Moloka'i, #1)",
+   "url": "https://www.goodreads.com/book/show/3273.Moloka_i",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2226.Alan_Brennert",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441920261i/3273._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/3273.Moloka_i"
+  },
+  {
+   "name": "Sarum: The Novel of England",
+   "url": "https://www.goodreads.com/book/show/1853145.Sarum",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/16204.Edward_Rutherfurd",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415831399i/1853145._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1853145.Sarum"
+  },
+  {
+   "name": "Daughter of Fortune",
+   "url": "https://www.goodreads.com/book/show/16527.Daughter_of_Fortune",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2238.Isabel_Allende",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1299666780i/16527._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16527.Daughter_of_Fortune"
+  },
+  {
+   "name": "The Bronze Horseman (The Bronze Horseman, #1)",
+   "url": "https://www.goodreads.com/book/show/41014505-the-bronze-horseman",
+   "author": "Paullina Simons",
+   "author_url": "https://www.goodreads.com/author/show/47499.Paullina_Simons",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533054822i/41014505._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41014505-the-bronze-horseman"
+  },
+  {
+   "name": "Tai-Pan (Asian Saga, #2)",
+   "url": "https://www.goodreads.com/book/show/42933.Tai_Pan",
+   "author": "James Clavell",
+   "author_url": "https://www.goodreads.com/author/show/6417.James_Clavell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577989362i/42933._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/42933.Tai_Pan"
+  },
+  {
+   "name": "Alias Grace",
+   "url": "https://www.goodreads.com/book/show/72579.Alias_Grace",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3472.Margaret_Atwood",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298545436i/72579._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/72579.Alias_Grace"
+  },
+  {
+   "name": "Ivanhoe",
+   "url": "https://www.goodreads.com/book/show/6440.Ivanhoe",
+   "author": "Walter Scott",
+   "author_url": "https://www.goodreads.com/author/show/4345.Walter_Scott",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715643510i/6440._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6440.Ivanhoe"
+  },
+  {
+   "name": "Centennial",
+   "url": "https://www.goodreads.com/book/show/133430.Centennial",
+   "author": "James A. Michener",
+   "author_url": "https://www.goodreads.com/author/show/7995.James_A_Michener",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348125094i/133430._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/133430.Centennial"
+  },
+  {
+   "name": "The Kite Runner",
+   "url": "https://www.goodreads.com/book/show/77203.The_Kite_Runner",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/569.Khaled_Hosseini",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753i/77203._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77203.The_Kite_Runner"
+  },
+  {
+   "name": "Hawaii",
+   "url": "https://www.goodreads.com/book/show/12658.Hawaii",
+   "author": "James A. Michener",
+   "author_url": "https://www.goodreads.com/author/show/7995.James_A_Michener",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415585664i/12658._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/12658.Hawaii"
+  },
+  {
+   "name": "The Nightingale",
+   "url": "https://www.goodreads.com/book/show/21853621-the-nightingale",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/54493.Kristin_Hannah",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681839850i/21853621._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/21853621-the-nightingale"
+  },
+  {
+   "name": "Nefertiti",
+   "url": "https://www.goodreads.com/book/show/481446.Nefertiti",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/269069.Michelle_Moran",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449831i/481446._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/481446.Nefertiti"
+  },
+  {
+   "name": "The Thirteenth Tale",
+   "url": "https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/22665.Diane_Setterfield",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346267826i/40440._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale"
+  },
+  {
+   "name": "The First Man in Rome (Masters of Rome, #1)",
+   "url": "https://www.goodreads.com/book/show/480570.The_First_Man_in_Rome",
+   "author": "Colleen McCullough",
+   "author_url": "https://www.goodreads.com/author/show/4917067.Colleen_McCullough",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211466i/480570._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/480570.The_First_Man_in_Rome"
+  },
+  {
+   "name": "The Birth of Venus",
+   "url": "https://www.goodreads.com/book/show/28078.The_Birth_of_Venus",
+   "author": "Sarah Dunant",
+   "author_url": "https://www.goodreads.com/author/show/15830.Sarah_Dunant",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423923989i/28078._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/28078.The_Birth_of_Venus"
+  },
+  {
+   "name": "North and South (North and South, #1)",
+   "url": "https://www.goodreads.com/book/show/159178.North_and_South",
+   "author": "John Jakes",
+   "author_url": "https://www.goodreads.com/author/show/5768.John_Jakes",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390174619i/159178._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/159178.North_and_South"
+  },
+  {
+   "name": "Possession",
+   "url": "https://www.goodreads.com/book/show/41219.Possession",
+   "author": "A.S. Byatt",
+   "author_url": "https://www.goodreads.com/author/show/1169504.A_S_Byatt",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391124124i/41219._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/41219.Possession"
+  },
+  {
+   "name": "One Thousand White Women: The Journals of May Dodd (One Thousand White Women, #1)",
+   "url": "https://www.goodreads.com/book/show/33512.One_Thousand_White_Women",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/18854.Jim_Fergus",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389821957i/33512._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/33512.One_Thousand_White_Women"
+  },
+  {
+   "name": "Forever Amber",
+   "url": "https://www.goodreads.com/book/show/5368.Forever_Amber",
+   "author": "Kathleen Winsor",
+   "author_url": "https://www.goodreads.com/author/show/3620.Kathleen_Winsor",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350464965i/5368._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5368.Forever_Amber"
+  },
+  {
+   "name": "The French Lieutenant’s Woman",
+   "url": "https://www.goodreads.com/book/show/56034.The_French_Lieutenant_s_Woman",
+   "author": "John Fowles",
+   "author_url": "https://www.goodreads.com/author/show/10039.John_Fowles",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466630905i/56034._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/56034.The_French_Lieutenant_s_Woman"
+  },
+  {
+   "name": "The Forgotten Garden",
+   "url": "https://www.goodreads.com/book/show/3407877-the-forgotten-garden",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/615274.Kate_Morton",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547843777i/3407877._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/3407877-the-forgotten-garden"
+  },
+  {
+   "name": "The Last Kingdom (The Saxon Stories, #1)",
+   "url": "https://www.goodreads.com/book/show/68527.The_Last_Kingdom",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/12542.Bernard_Cornwell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407107780i/68527._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/68527.The_Last_Kingdom"
+  },
+  {
+   "name": "London",
+   "url": "https://www.goodreads.com/book/show/92160.London",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/16204.Edward_Rutherfurd",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320450619l/92160._SX50_SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/92160.London"
+  },
+  {
+   "name": "The Cider House Rules",
+   "url": "https://www.goodreads.com/book/show/4687.The_Cider_House_Rules",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3075.John_Irving",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962519i/4687._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/4687.The_Cider_House_Rules"
+  },
+  {
+   "name": "The Complete Aubrey/Maturin Novels (5 Volumes)",
+   "url": "https://www.goodreads.com/book/show/24520.The_Complete_Aubrey_Maturin_Novels",
+   "author": "Patrick O'Brian",
+   "author_url": "https://www.goodreads.com/author/show/5600.Patrick_O_Brian",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388325762i/24520._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/24520.The_Complete_Aubrey_Maturin_Novels"
+  },
+  {
+   "name": "Beloved",
+   "url": "https://www.goodreads.com/book/show/6149.Beloved",
+   "author": "Toni Morrison",
+   "author_url": "https://www.goodreads.com/author/show/3534.Toni_Morrison",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318i/6149._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6149.Beloved"
+  },
+  {
+   "name": "Sarah, Plain and Tall (Sarah, Plain and Tall, #1)",
+   "url": "https://www.goodreads.com/book/show/106264.Sarah_Plain_and_Tall",
+   "author": "Patricia MacLachlan",
+   "author_url": "https://www.goodreads.com/author/show/29182.Patricia_MacLachlan",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327254558i/106264._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/106264.Sarah_Plain_and_Tall"
+  },
+  {
+   "name": "The Far Pavilions",
+   "url": "https://www.goodreads.com/book/show/10222.The_Far_Pavilions",
+   "author": "M.M. Kaye",
+   "author_url": "https://www.goodreads.com/author/show/1040250.M_M_Kaye",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403391799i/10222._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10222.The_Far_Pavilions"
+  },
+  {
+   "name": "People of the Book",
+   "url": "https://www.goodreads.com/book/show/1379961.People_of_the_Book",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/211268.Geraldine_Brooks",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442955497i/1379961._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1379961.People_of_the_Book"
+  },
+  {
+   "name": "Gates of Fire",
+   "url": "https://www.goodreads.com/book/show/1305.Gates_of_Fire",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/867.Steven_Pressfield",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924869i/1305._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1305.Gates_of_Fire"
+  },
+  {
+   "name": "Pompeii",
+   "url": "https://www.goodreads.com/book/show/880.Pompeii",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/575.Robert_Harris",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189565i/880._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/880.Pompeii"
+  },
+  {
+   "name": "The Kitchen House",
+   "url": "https://www.goodreads.com/book/show/6837103-the-kitchen-house",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3067074.Kathleen_Grissom",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463229128i/6837103._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6837103-the-kitchen-house"
+  },
+  {
+   "name": "Lincoln",
+   "url": "https://www.goodreads.com/book/show/8716.Lincoln",
+   "author": "Gore Vidal",
+   "author_url": "https://www.goodreads.com/author/show/5657.Gore_Vidal",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403185993i/8716._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/8716.Lincoln"
+  },
+  {
+   "name": "March",
+   "url": "https://www.goodreads.com/book/show/13529.March",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/211268.Geraldine_Brooks",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327935441i/13529._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13529.March"
+  },
+  {
+   "name": "An Echo in the Bone (Outlander, #7)",
+   "url": "https://www.goodreads.com/book/show/2832909-an-echo-in-the-bone",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3617.Diana_Gabaldon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918297i/2832909._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2832909-an-echo-in-the-bone"
+  },
+  {
+   "name": "When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)",
+   "url": "https://www.goodreads.com/book/show/43841.When_Christ_and_His_Saints_Slept",
+   "author": "Sharon Kay Penman",
+   "author_url": "https://www.goodreads.com/author/show/24655.Sharon_Kay_Penman",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577582i/43841._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/43841.When_Christ_and_His_Saints_Slept"
+  },
+  {
+   "name": "Things Fall Apart (The African Trilogy, #1)",
+   "url": "https://www.goodreads.com/book/show/37781.Things_Fall_Apart",
+   "author": "Chinua Achebe",
+   "author_url": "https://www.goodreads.com/author/show/8051.Chinua_Achebe",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708114013i/37781._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/37781.Things_Fall_Apart"
+  },
+  {
+   "name": "The Source",
+   "url": "https://www.goodreads.com/book/show/12657.The_Source",
+   "author": "James A. Michener",
+   "author_url": "https://www.goodreads.com/author/show/7995.James_A_Michener",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412531751i/12657._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/12657.The_Source"
+  },
+  {
+   "name": "The Crimson Petal and the White",
+   "url": "https://www.goodreads.com/book/show/40200.The_Crimson_Petal_and_the_White",
+   "author": "Michel Faber",
+   "author_url": "https://www.goodreads.com/author/show/16272.Michel_Faber",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408937589i/40200._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40200.The_Crimson_Petal_and_the_White"
+  },
+  {
+   "name": "The Crystal Cave (Arthurian Saga, #1)",
+   "url": "https://www.goodreads.com/book/show/82192.The_Crystal_Cave",
+   "author": "Mary Stewart",
+   "author_url": "https://www.goodreads.com/author/show/15590.Mary_Stewart",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439344566i/82192._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/82192.The_Crystal_Cave"
+  },
+  {
+   "name": "The Game of Kings (The Lymond Chronicles, #1)",
+   "url": "https://www.goodreads.com/book/show/112077.The_Game_of_Kings",
+   "author": "Dorothy Dunnett",
+   "author_url": "https://www.goodreads.com/author/show/8361.Dorothy_Dunnett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342486295i/112077._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/112077.The_Game_of_Kings"
+  },
+  {
+   "name": "Aztec (Aztec, #1)",
+   "url": "https://www.goodreads.com/book/show/550454.Aztec",
+   "author": "Gary Jennings",
+   "author_url": "https://www.goodreads.com/author/show/37766.Gary_Jennings",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388194488i/550454._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/550454.Aztec"
+  },
+  {
+   "name": "Caddie Woodlawn (Caddie Woodlawn, #1)",
+   "url": "https://www.goodreads.com/book/show/205821.Caddie_Woodlawn",
+   "author": "Carol Ryrie Brink",
+   "author_url": "https://www.goodreads.com/author/show/5325.Carol_Ryrie_Brink",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388281233i/205821._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/205821.Caddie_Woodlawn"
+  }
+ ]
+}

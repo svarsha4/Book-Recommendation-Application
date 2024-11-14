@@ -1,0 +1,31 @@
+/*This file uses Tailwind CSS to implement styling for the sign in page.*/
+/* styles/signup.css */
+
+.signup-container {
+    @apply flex items-center justify-center min-h-screen bg-background bg-cover bg-center;
+}
+  
+.signup-form {
+    @apply w-full max-w-lg p-8 bg-white rounded-lg shadow-lg;
+}
+  
+.signup-header {
+    @apply text-3xl font-semibold text-gray-800 mb-6;
+}
+  
+.signup-input {
+    @apply w-full p-3 border border-gray-300 rounded-lg mb-4;
+}
+  
+.signup-button {
+    @apply w-full py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700;
+}
+  
+.already-member {
+    @apply text-gray-600 text-sm mt-4 text-center;
+}
+  
+.signin-link {
+    @apply text-blue-600 hover:underline;
+}
+  

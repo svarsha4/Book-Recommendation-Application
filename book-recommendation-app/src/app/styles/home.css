@@ -1,0 +1,114 @@
+/*This file adds styling to the home webpage*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    height: 100vh; 
+    color: #333;
+    text-align: center;
+    gap: 20px;
+}
+
+.home-header {
+    font-size: 2rem;
+    color: #000;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+.book-preferences-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+/* Styling for input fields */
+.book-preferences-form input {
+    width: 400px; /* Adjust width */
+    height: 60px; /* Adjust height */
+    padding: 10px; /* Adjust padding */
+    font-size: 16px; /* Adjust font size */
+    border: 1px solid #ccc; /* Border styling */
+    border-radius: 5px; /* Rounded corners */
+}
+  
+.book-preferences-form input:focus {
+    border-color: #fff; /* Change border color on focus */
+    outline: none; /* Remove default outline */
+}
+
+.book-preferences-form select {
+    width: 400px; /* Adjust width */
+    height: 60px; /* Adjust height */
+    padding: 10px; /* Adjust padding */
+    font-size: 16px; /* Adjust font size */
+    border: 1px solid #fff;; /* Border styling */
+    border-radius: 5px; /* Rounded corners */
+}
+  
+  .book-preferences-form select:focus {
+    border-color: #888; /* Change border color on focus */
+    outline: none; /* Remove default outline */
+  }
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-input {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-submit-button {
+    padding: 10px 15px;
+    font-size: 1rem;
+    background-color: #7B3F00;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 45px;
+}
+
+.form-submit-button:hover {
+    background-color: #8B4F00;
+}
+
+/* Add text specifying to the user that any field
+they didn't fill out is required*/
+.error-text {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 5px;
+}
+
+

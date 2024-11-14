@@ -1,0 +1,73 @@
+[
+  {
+    "username": "hello123",
+    "password": "$2a$10$jqCloX/NZeLp2KEN8AczReaerQ1h40bC7e8r7mqBsu28jKfN5k4K6",
+    "books": [
+      {
+        "id": 4,
+        "name": "Piranesi",
+        "author": "Susanna Clarke",
+        "genre": "Fantasy"
+      },
+      {
+        "id": 5,
+        "name": "The Fall of Giants",
+        "author": "Ken Follett",
+        "genre": "Historical Fiction"
+      },
+      {
+        "id": 6,
+        "name": "The Hobbit",
+        "author": "JRR Tolkien",
+        "genre": "Fantasy"
+      },
+      {
+        "id": 7,
+        "name": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Science Fiction"
+      },
+      {
+        "id": 8,
+        "name": "The Thorn Birds",
+        "author": "Colleen McCullough",
+        "genre": "Historical Fiction"
+      },
+      {
+        "id": 9,
+        "name": "Leonardo Da Vinci",
+        "author": "Walter Isaacson",
+        "genre": "Historical Fiction"
+      },
+      {
+        "id": 10,
+        "name": "Exodus",
+        "author": "Leon Uris",
+        "genre": "Historical Fiction"
+      }
+    ]
+  },
+  {
+    "username": "Saul",
+    "password": "$2a$10$4Y4WZUl2rmCzRc4eScfB/OrsAZM/I3W/llrSprZ3A0BDd1JQORPEO",
+    "books": []
+  },
+  {
+    "username": "Ryan",
+    "password": "$2a$10$BDfKLSsgUI2gfKOECG3cOuDbInfN9C9x3quivLrD4gnEehK5MvXOy",
+    "books": [
+      {
+        "id": 1,
+        "name": "Leonardo Da Vinci",
+        "author": "Walter Isaacson",
+        "genre": "Historical Fiction"
+      },
+      {
+        "id": 2,
+        "name": "vdfwefqw",
+        "author": "Walter Isaacson",
+        "genre": "Mystery"
+      }
+    ]
+  }
+]

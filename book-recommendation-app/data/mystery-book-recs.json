@@ -1,0 +1,804 @@
+{
+ "book": [
+  {
+   "name": "The Girl with the Dragon Tattoo (Millennium, #1)",
+   "url": "https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo",
+   "author": "Stieg Larsson",
+   "author_url": "https://www.goodreads.com/author/show/706255.Stieg_Larsson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo"
+  },
+  {
+   "name": "And Then There Were None",
+   "url": "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None",
+   "author": "Agatha Christie",
+   "author_url": "https://www.goodreads.com/author/show/123715.Agatha_Christie",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885i/16299._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None"
+  },
+  {
+   "name": "Angels & Demons (Robert Langdon, #1)",
+   "url": "https://www.goodreads.com/book/show/960.Angels_Demons",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/630.Dan_Brown",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696691404i/960._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/960.Angels_Demons"
+  },
+  {
+   "name": "Rebecca",
+   "url": "https://www.goodreads.com/book/show/17899948-rebecca",
+   "author": "Daphne du Maurier",
+   "author_url": "https://www.goodreads.com/author/show/2001717.Daphne_du_Maurier",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386605169i/17899948._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/17899948-rebecca"
+  },
+  {
+   "name": "In Cold Blood",
+   "url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood",
+   "author": "Truman Capote",
+   "author_url": "https://www.goodreads.com/author/show/431149.Truman_Capote",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136i/168642._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood"
+  },
+  {
+   "name": "The Godfather (The Godfather, #1)",
+   "url": "https://www.goodreads.com/book/show/22034.The_Godfather",
+   "author": "Mario Puzo",
+   "author_url": "https://www.goodreads.com/author/show/12605.Mario_Puzo",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394988109i/22034._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/22034.The_Godfather"
+  },
+  {
+   "name": "The Lovely Bones",
+   "url": "https://www.goodreads.com/book/show/12232938-the-lovely-bones",
+   "author": "Alice Sebold",
+   "author_url": "https://www.goodreads.com/author/show/316.Alice_Sebold",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586i/12232938._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/12232938-the-lovely-bones"
+  },
+  {
+   "name": "Gone Girl",
+   "url": "https://www.goodreads.com/book/show/19288043-gone-girl",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2383.Gillian_Flynn",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/19288043-gone-girl"
+  },
+  {
+   "name": "The Name of the Rose",
+   "url": "https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose",
+   "author": "Umberto Eco",
+   "author_url": "https://www.goodreads.com/author/show/1730.Umberto_Eco",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose"
+  },
+  {
+   "name": "Shutter Island",
+   "url": "https://www.goodreads.com/book/show/21686.Shutter_Island",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/10289.Dennis_Lehane",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329269081i/21686._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/21686.Shutter_Island"
+  },
+  {
+   "name": "The Firm",
+   "url": "https://www.goodreads.com/book/show/5358.The_Firm",
+   "author": "(Adaptor)",
+   "author_url": "https://www.goodreads.com/author/show/608211.Robin_Waterfield",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418465200i/5358._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5358.The_Firm"
+  },
+  {
+   "name": "Mystic River",
+   "url": "https://www.goodreads.com/book/show/21671.Mystic_River",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/10289.Dennis_Lehane",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407109549i/21671._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/21671.Mystic_River"
+  },
+  {
+   "name": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
+   "url": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind",
+   "author": "Carlos Ruiz Zafón",
+   "author_url": "https://www.goodreads.com/author/show/815.Carlos_Ruiz_Zaf_n",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628791882i/1232._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
+  },
+  {
+   "name": "The Big Sleep (Philip Marlowe, #1)",
+   "url": "https://www.goodreads.com/book/show/2052.The_Big_Sleep",
+   "author": "Raymond Chandler",
+   "author_url": "https://www.goodreads.com/author/show/1377.Raymond_Chandler",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371584712i/2052._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2052.The_Big_Sleep"
+  },
+  {
+   "name": "The Alienist (Dr. Laszlo Kreizler, #1)",
+   "url": "https://www.goodreads.com/book/show/40024.The_Alienist",
+   "author": "Caleb Carr",
+   "author_url": "https://www.goodreads.com/author/show/27779.Caleb_Carr",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388256626i/40024._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40024.The_Alienist"
+  },
+  {
+   "name": "One for the Money (Stephanie Plum, #1)",
+   "url": "https://www.goodreads.com/book/show/6853.One_for_the_Money",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2384.Janet_Evanovich",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316730230i/6853._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6853.One_for_the_Money"
+  },
+  {
+   "name": "In the Woods (Dublin Murder Squad, #1)",
+   "url": "https://www.goodreads.com/book/show/2459785.In_the_Woods",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/138825.Tana_French",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761513i/2459785._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2459785.In_the_Woods"
+  },
+  {
+   "name": "The Maltese Falcon",
+   "url": "https://www.goodreads.com/book/show/29999.The_Maltese_Falcon",
+   "author": "Dashiell Hammett",
+   "author_url": "https://www.goodreads.com/author/show/16927.Dashiell_Hammett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689040081i/29999._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/29999.The_Maltese_Falcon"
+  },
+  {
+   "name": "Red Dragon (Hannibal Lecter, #1)",
+   "url": "https://www.goodreads.com/book/show/28877.Red_Dragon",
+   "author": "Thomas Harris",
+   "author_url": "https://www.goodreads.com/author/show/12455.Thomas_Harris",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593241110i/28877._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/28877.Red_Dragon"
+  },
+  {
+   "name": "Presumed Innocent (Kindle County Legal Thriller, #1)",
+   "url": "https://www.goodreads.com/book/show/425029.Presumed_Innocent",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2749.Scott_Turow",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551739783i/425029._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/425029.Presumed_Innocent"
+  },
+  {
+   "name": "A Time to Kill (Jake Brigance, #1)",
+   "url": "https://www.goodreads.com/book/show/32542.A_Time_to_Kill",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/721.John_Grisham",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554303029i/32542._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32542.A_Time_to_Kill"
+  },
+  {
+   "name": "Midnight in the Garden of Good and Evil",
+   "url": "https://www.goodreads.com/book/show/386187.Midnight_in_the_Garden_of_Good_and_Evil",
+   "author": "John Berendt",
+   "author_url": "https://www.goodreads.com/author/show/4952.John_Berendt",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427166915i/386187._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/386187.Midnight_in_the_Garden_of_Good_and_Evil"
+  },
+  {
+   "name": "Dr. Jekyll and Mr. Hyde",
+   "url": "https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde",
+   "author": "Robert Louis Stevenson",
+   "author_url": "https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526i/51496._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde"
+  },
+  {
+   "name": "The Thirteenth Tale",
+   "url": "https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/22665.Diane_Setterfield",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346267826i/40440._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale"
+  },
+  {
+   "name": "The Complete Stories and Poems",
+   "url": "https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems",
+   "author": "Edgar Allan Poe",
+   "author_url": "https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942676i/23919._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems"
+  },
+  {
+   "name": "The Mysterious Affair at Styles (Hercule Poirot, #1)",
+   "url": "https://www.goodreads.com/book/show/16343.The_Mysterious_Affair_at_Styles",
+   "author": "Agatha Christie",
+   "author_url": "https://www.goodreads.com/author/show/123715.Agatha_Christie",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922393i/16343._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16343.The_Mysterious_Affair_at_Styles"
+  },
+  {
+   "name": "A Study in Scarlet (Sherlock Holmes, #1)",
+   "url": "https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet",
+   "author": "Arthur Conan Doyle",
+   "author_url": "https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519031842i/102868._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet"
+  },
+  {
+   "name": "The Count of Monte Cristo",
+   "url": "https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo",
+   "author": "Alexandre Dumas",
+   "author_url": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611834134i/7126._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo"
+  },
+  {
+   "name": "The Woman in White",
+   "url": "https://www.goodreads.com/book/show/5890.The_Woman_in_White",
+   "author": "Wilkie Collins",
+   "author_url": "https://www.goodreads.com/author/show/4012.Wilkie_Collins",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295661017i/5890._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5890.The_Woman_in_White"
+  },
+  {
+   "name": "Postmortem (Kay Scarpetta, #1)",
+   "url": "https://www.goodreads.com/book/show/6534.Postmortem",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/1025097.Patricia_Cornwell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341835831i/6534._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6534.Postmortem"
+  },
+  {
+   "name": "A Is for Alibi (Kinsey Millhone #1)",
+   "url": "https://www.goodreads.com/book/show/64863.A_Is_for_Alibi",
+   "author": "Sue Grafton",
+   "author_url": "https://www.goodreads.com/author/show/9559.Sue_Grafton",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388198817i/64863._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/64863.A_Is_for_Alibi"
+  },
+  {
+   "name": "Perfume: The Story of a Murderer",
+   "url": "https://www.goodreads.com/book/show/343.Perfume",
+   "author": "Patrick Süskind",
+   "author_url": "https://www.goodreads.com/author/show/39402.Patrick_S_skind",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276i/343._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/343.Perfume"
+  },
+  {
+   "name": "1st to Die (Women's Murder Club, #1)",
+   "url": "https://www.goodreads.com/book/show/13137.1st_to_Die",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3780.James_Patterson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522906581i/13137._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13137.1st_to_Die"
+  },
+  {
+   "name": "The Lincoln Lawyer (The Lincoln Lawyer, #1; Harry Bosch Universe, #16)",
+   "url": "https://www.goodreads.com/book/show/40612032-the-lincoln-lawyer",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/12470.Michael_Connelly",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529686346i/40612032._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40612032-the-lincoln-lawyer"
+  },
+  {
+   "name": "The Bone Collector (Lincoln Rhyme, #1)",
+   "url": "https://www.goodreads.com/book/show/2373.The_Bone_Collector",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/1612.Jeffery_Deaver",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437538512i/2373._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2373.The_Bone_Collector"
+  },
+  {
+   "name": "Murder on the Orient Express (Hercule Poirot, #10)",
+   "url": "https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express",
+   "author": "Agatha Christie",
+   "author_url": "https://www.goodreads.com/author/show/123715.Agatha_Christie",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486131451i/853510._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express"
+  },
+  {
+   "name": "The Curious Incident of the Dog in the Night-Time",
+   "url": "https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time",
+   "author": "Mark Haddon",
+   "author_url": "https://www.goodreads.com/author/show/1050.Mark_Haddon",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624i/1618._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time"
+  },
+  {
+   "name": "The Pelican Brief",
+   "url": "https://www.goodreads.com/book/show/32499.The_Pelican_Brief",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/721.John_Grisham",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389486877i/32499._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32499.The_Pelican_Brief"
+  },
+  {
+   "name": "Killing Floor (Jack Reacher #1)",
+   "url": "https://www.goodreads.com/book/show/78129.Killing_Floor",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/5091.Lee_Child",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399313258i/78129._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/78129.Killing_Floor"
+  },
+  {
+   "name": "Crime and Punishment",
+   "url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment",
+   "author": "Fyodor Dostoevsky",
+   "author_url": "https://www.goodreads.com/author/show/3137322.Fyodor_Dostoevsky",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+  },
+  {
+   "name": "The Historian",
+   "url": "https://www.goodreads.com/book/show/30236962-the-historian",
+   "author": "Elizabeth Kostova",
+   "author_url": "https://www.goodreads.com/author/show/5918.Elizabeth_Kostova",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717145561i/30236962._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/30236962-the-historian"
+  },
+  {
+   "name": "The Day of the Jackal",
+   "url": "https://www.goodreads.com/book/show/540020.The_Day_of_the_Jackal",
+   "author": "Frederick Forsyth",
+   "author_url": "https://www.goodreads.com/author/show/36714.Frederick_Forsyth",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405364996i/540020._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/540020.The_Day_of_the_Jackal"
+  },
+  {
+   "name": "The Poet (Jack McEvoy, #1; Harry Bosch Universe, #5)",
+   "url": "https://www.goodreads.com/book/show/32506.The_Poet",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/12470.Michael_Connelly",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442855718i/32506._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32506.The_Poet"
+  },
+  {
+   "name": "Naked in Death (In Death, #1)",
+   "url": "https://www.goodreads.com/book/show/479309.Naked_in_Death",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/17065.J_D_Robb",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333326143i/479309._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/479309.Naked_in_Death"
+  },
+  {
+   "name": "Sharp Objects",
+   "url": "https://www.goodreads.com/book/show/18045891-sharp-objects",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2383.Gillian_Flynn",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/18045891-sharp-objects"
+  },
+  {
+   "name": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",
+   "url": "https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/4738.Alexander_McCall_Smith",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459953654i/7061._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency"
+  },
+  {
+   "name": "The Moonstone",
+   "url": "https://www.goodreads.com/book/show/6138.The_Moonstone",
+   "author": "Wilkie Collins",
+   "author_url": "https://www.goodreads.com/author/show/4012.Wilkie_Collins",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403192382i/6138._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/6138.The_Moonstone"
+  },
+  {
+   "name": "Smilla's Sense of Snow",
+   "url": "https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow",
+   "author": "Peter Høeg",
+   "author_url": "https://www.goodreads.com/author/show/369288.Peter_H_eg",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485595488i/124509._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/124509.Smilla_s_Sense_of_Snow"
+  },
+  {
+   "name": "The Talented Mr. Ripley (Ripley, #1)",
+   "url": "https://www.goodreads.com/book/show/2247142.The_Talented_Mr_Ripley",
+   "author": "Patricia Highsmith",
+   "author_url": "https://www.goodreads.com/author/show/7622.Patricia_Highsmith",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634841836i/2247142._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2247142.The_Talented_Mr_Ripley"
+  },
+  {
+   "name": "Gorky Park (Arkady Renko, #1)",
+   "url": "https://www.goodreads.com/book/show/762806.Gorky_Park",
+   "author": "Martin Cruz Smith",
+   "author_url": "https://www.goodreads.com/author/show/8258.Martin_Cruz_Smith",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390189430i/762806._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/762806.Gorky_Park"
+  },
+  {
+   "name": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+   "url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/5869.Erik_Larson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583433024i/397483._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City"
+  },
+  {
+   "name": "A Great Deliverance (Inspector Lynley, #1)",
+   "url": "https://www.goodreads.com/book/show/31374.A_Great_Deliverance",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/1402383.Elizabeth_George",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422723527i/31374._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/31374.A_Great_Deliverance"
+  },
+  {
+   "name": "Eye of the Needle",
+   "url": "https://www.goodreads.com/book/show/92364.Eye_of_the_Needle",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3447.Ken_Follett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327939511i/92364._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/92364.Eye_of_the_Needle"
+  },
+  {
+   "name": "Tinker, Tailor, Soldier, Spy (George Smiley, #5; Karla Trilogy, #1)",
+   "url": "https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy",
+   "author": "John le Carré",
+   "author_url": "https://www.goodreads.com/author/show/1411964.John_le_Carr_",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349070201i/10073506._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy"
+  },
+  {
+   "name": "No Country for Old Men",
+   "url": "https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men",
+   "author": "Cormac McCarthy",
+   "author_url": "https://www.goodreads.com/author/show/4178.Cormac_McCarthy",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443231179i/12497._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men"
+  },
+  {
+   "name": "The Bourne Identity (Jason Bourne, #1)",
+   "url": "https://www.goodreads.com/book/show/7869.The_Bourne_Identity",
+   "author": "Robert Ludlum",
+   "author_url": "https://www.goodreads.com/author/show/5293.Robert_Ludlum",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335860740i/7869._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/7869.The_Bourne_Identity"
+  },
+  {
+   "name": "The Beekeeper's Apprentice (Mary Russell and Sherlock Holmes, #1)",
+   "url": "https://www.goodreads.com/book/show/91661.The_Beekeeper_s_Apprentice",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/6760.Laurie_R_King",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590945421i/91661._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/91661.The_Beekeeper_s_Apprentice"
+  },
+  {
+   "name": "The Hound of the Baskervilles (Sherlock Holmes, #5)",
+   "url": "https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles",
+   "author": "Arthur Conan Doyle",
+   "author_url": "https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355929358i/8921._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles"
+  },
+  {
+   "name": "Along Came a Spider (Alex Cross, #1)",
+   "url": "https://www.goodreads.com/book/show/13145.Along_Came_a_Spider",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3780.James_Patterson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388272560i/13145._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/13145.Along_Came_a_Spider"
+  },
+  {
+   "name": "The Black Dahlia (L.A. Quartet, #1)",
+   "url": "https://www.goodreads.com/book/show/21704.The_Black_Dahlia",
+   "author": "James Ellroy",
+   "author_url": "https://www.goodreads.com/author/show/2887.James_Ellroy",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387048173i/21704._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/21704.The_Black_Dahlia"
+  },
+  {
+   "name": "An Unsuitable Job for a Woman (Cordelia Gray, #1)",
+   "url": "https://www.goodreads.com/book/show/365307.An_Unsuitable_Job_for_a_Woman",
+   "author": "P.D. James",
+   "author_url": "https://www.goodreads.com/author/show/17452454.P_D_James",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410170409i/365307._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/365307.An_Unsuitable_Job_for_a_Woman"
+  },
+  {
+   "name": "The Black Echo (Harry Bosch, #1; Harry Bosch Universe, #1)",
+   "url": "https://www.goodreads.com/book/show/32508.The_Black_Echo",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/12470.Michael_Connelly",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265342i/32508._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32508.The_Black_Echo"
+  },
+  {
+   "name": "The Thin Man",
+   "url": "https://www.goodreads.com/book/show/80616.The_Thin_Man",
+   "author": "Dashiell Hammett",
+   "author_url": "https://www.goodreads.com/author/show/16927.Dashiell_Hammett",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321111302i/80616._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/80616.The_Thin_Man"
+  },
+  {
+   "name": "The Surgeon (Rizzoli & Isles, #1)",
+   "url": "https://www.goodreads.com/book/show/32263.The_Surgeon",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/18149.Tess_Gerritsen",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277923728i/32263._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32263.The_Surgeon"
+  },
+  {
+   "name": "Different Seasons",
+   "url": "https://www.goodreads.com/book/show/39662.Different_Seasons",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/3389.Stephen_King",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329662611i/39662._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/39662.Different_Seasons"
+  },
+  {
+   "name": "Case Histories (Jackson Brodie, #1)",
+   "url": "https://www.goodreads.com/book/show/16243.Case_Histories",
+   "author": "Kate Atkinson",
+   "author_url": "https://www.goodreads.com/author/show/10015.Kate_Atkinson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558363159i/16243._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16243.Case_Histories"
+  },
+  {
+   "name": "The Secret History",
+   "url": "https://www.goodreads.com/book/show/29044.The_Secret_History",
+   "author": "Donna Tartt",
+   "author_url": "https://www.goodreads.com/author/show/8719.Donna_Tartt",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846i/29044._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/29044.The_Secret_History"
+  },
+  {
+   "name": "Crocodile on the Sandbank (Amelia Peabody #1)",
+   "url": "https://www.goodreads.com/book/show/188230.Crocodile_on_the_Sandbank",
+   "author": "Elizabeth Peters",
+   "author_url": "https://www.goodreads.com/author/show/16549.Elizabeth_Peters",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306096774i/188230._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/188230.Crocodile_on_the_Sandbank"
+  },
+  {
+   "name": "Deception Point",
+   "url": "https://www.goodreads.com/book/show/976.Deception_Point",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/630.Dan_Brown",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487i/976._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/976.Deception_Point"
+  },
+  {
+   "name": "Snow Falling on Cedars",
+   "url": "https://www.goodreads.com/book/show/77142.Snow_Falling_on_Cedars",
+   "author": "David Guterson",
+   "author_url": "https://www.goodreads.com/author/show/1873.David_Guterson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863528i/77142._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/77142.Snow_Falling_on_Cedars"
+  },
+  {
+   "name": "The Sweetness at the Bottom of the Pie (Flavia de Luce, #1)",
+   "url": "https://www.goodreads.com/book/show/40605285-the-sweetness-at-the-bottom-of-the-pie",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/1074866.Alan_Bradley",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529610868i/40605285._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/40605285-the-sweetness-at-the-bottom-of-the-pie"
+  },
+  {
+   "name": "Dark Places",
+   "url": "https://www.goodreads.com/book/show/5886881-dark-places",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/2383.Gillian_Flynn",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354988288i/5886881._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/5886881-dark-places"
+  },
+  {
+   "name": "Bell Hammers",
+   "url": "https://www.goodreads.com/book/show/48731251-bell-hammers",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/19229425.Lancelot_Schaubert",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573378248i/48731251._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/48731251-bell-hammers"
+  },
+  {
+   "name": "Tell No One",
+   "url": "https://www.goodreads.com/book/show/43933.Tell_No_One",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/24689.Harlan_Coben",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421365049i/43933._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/43933.Tell_No_One"
+  },
+  {
+   "name": "Rules of Prey (Lucas Davenport, #1)",
+   "url": "https://www.goodreads.com/book/show/37301.Rules_of_Prey",
+   "author": "John Sandford",
+   "author_url": "https://www.goodreads.com/author/show/4610.John_Sandford",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442064932i/37301._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/37301.Rules_of_Prey"
+  },
+  {
+   "name": "The Postman Always Rings Twice",
+   "url": "https://www.goodreads.com/book/show/25807.The_Postman_Always_Rings_Twice",
+   "author": "James M. Cain",
+   "author_url": "https://www.goodreads.com/author/show/14473.James_M_Cain",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265267i/25807._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/25807.The_Postman_Always_Rings_Twice"
+  },
+  {
+   "name": "The Secret of the Old Clock (Nancy Drew Mystery Stories, #1)",
+   "url": "https://www.goodreads.com/book/show/32979.The_Secret_of_the_Old_Clock",
+   "author": "Carolyn Keene",
+   "author_url": "https://www.goodreads.com/author/show/6001.Carolyn_Keene",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351534678i/32979._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/32979.The_Secret_of_the_Old_Clock"
+  },
+  {
+   "name": "A Story of Yesterday",
+   "url": "https://www.goodreads.com/book/show/58913358-a-story-of-yesterday",
+   "author": "Sergio Cobo",
+   "author_url": "https://www.goodreads.com/author/show/13552262.Sergio_Cobo",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630609122i/58913358._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/58913358-a-story-of-yesterday"
+  },
+  {
+   "name": "A Study in Scarlet and The Sign of Four",
+   "url": "https://www.goodreads.com/book/show/76120.A_Study_in_Scarlet_and_The_Sign_of_Four",
+   "author": "Arthur Conan Doyle",
+   "author_url": "https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328865697i/76120._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/76120.A_Study_in_Scarlet_and_The_Sign_of_Four"
+  },
+  {
+   "name": "Child 44 (Leo Demidov, #1)",
+   "url": "https://www.goodreads.com/book/show/2161733.Child_44",
+   "author": "Tom Rob Smith",
+   "author_url": "https://www.goodreads.com/author/show/981834.Tom_Rob_Smith",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326549060i/2161733._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2161733.Child_44"
+  },
+  {
+   "name": "Dead Until Dark (Sookie Stackhouse, #1)",
+   "url": "https://www.goodreads.com/book/show/301082.Dead_Until_Dark",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/17061.Charlaine_Harris",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468560853i/301082._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/301082.Dead_Until_Dark"
+  },
+  {
+   "name": "Double Indemnity",
+   "url": "https://www.goodreads.com/book/show/56616.Double_Indemnity",
+   "author": "James M. Cain",
+   "author_url": "https://www.goodreads.com/author/show/14473.James_M_Cain",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643474470i/56616._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/56616.Double_Indemnity"
+  },
+  {
+   "name": "American Psycho",
+   "url": "https://www.goodreads.com/book/show/28676.American_Psycho",
+   "author": "Bret Easton Ellis",
+   "author_url": "https://www.goodreads.com/author/show/2751.Bret_Easton_Ellis",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436934349i/28676._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/28676.American_Psycho"
+  },
+  {
+   "name": "Whose Body? (Lord Peter Wimsey, #1)",
+   "url": "https://www.goodreads.com/book/show/192893.Whose_Body_",
+   "author": "Dorothy L. Sayers",
+   "author_url": "https://www.goodreads.com/author/show/8734.Dorothy_L_Sayers",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387573241i/192893._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/192893.Whose_Body_"
+  },
+  {
+   "name": "The Woods",
+   "url": "https://www.goodreads.com/book/show/43931.The_Woods",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/24689.Harlan_Coben",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439523356i/43931._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/43931.The_Woods"
+  },
+  {
+   "name": "Gone for Good",
+   "url": "https://www.goodreads.com/book/show/43930.Gone_for_Good",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/24689.Harlan_Coben",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200178i/43930._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/43930.Gone_for_Good"
+  },
+  {
+   "name": "Storm Front (The Dresden Files, #1)",
+   "url": "https://www.goodreads.com/book/show/47212.Storm_Front",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572991273i/47212._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/47212.Storm_Front"
+  },
+  {
+   "name": "Faceless Killers (Kurt Wallander, #1)",
+   "url": "https://www.goodreads.com/book/show/935308.Faceless_Killers",
+   "author": "Henning Mankell",
+   "author_url": "https://www.goodreads.com/author/show/22339.Henning_Mankell",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487941867i/935308._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/935308.Faceless_Killers"
+  },
+  {
+   "name": "The Ritual Bath (Peter Decker/Rina Lazarus #1)",
+   "url": "https://www.goodreads.com/book/show/104106.The_Ritual_Bath",
+   "author": "Faye Kellerman",
+   "author_url": "https://www.goodreads.com/author/show/48913.Faye_Kellerman",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326484814i/104106._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/104106.The_Ritual_Bath"
+  },
+  {
+   "name": "Witness for the Prosecution and Selected Plays",
+   "url": "https://www.goodreads.com/book/show/16320.Witness_for_the_Prosecution_and_Selected_Plays",
+   "author": "Agatha Christie",
+   "author_url": "https://www.goodreads.com/author/show/123715.Agatha_Christie",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387744754i/16320._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16320.Witness_for_the_Prosecution_and_Selected_Plays"
+  },
+  {
+   "name": "Helter Skelter: The True Story of the Manson Murders",
+   "url": "https://www.goodreads.com/book/show/105992.Helter_Skelter",
+   "author": "Vincent Bugliosi",
+   "author_url": "https://www.goodreads.com/author/show/28828.Vincent_Bugliosi",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347694754i/105992._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/105992.Helter_Skelter"
+  },
+  {
+   "name": "Where Are the Children? (Where Are the Children, #1)",
+   "url": "https://www.goodreads.com/book/show/43339.Where_Are_the_Children_",
+   "author": "Mary Higgins Clark",
+   "author_url": "https://www.goodreads.com/author/show/99044.Mary_Higgins_Clark",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388257386i/43339._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/43339.Where_Are_the_Children_"
+  },
+  {
+   "name": "Get Shorty (Chili Palmer, #1)",
+   "url": "https://www.goodreads.com/book/show/702539.Get_Shorty",
+   "author": "Elmore Leonard",
+   "author_url": "https://www.goodreads.com/author/show/12940.Elmore_Leonard",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330673682i/702539._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/702539.Get_Shorty"
+  },
+  {
+   "name": "The Killer Inside Me",
+   "url": "https://www.goodreads.com/book/show/298663.The_Killer_Inside_Me",
+   "author": "Jim Thompson",
+   "author_url": "https://www.goodreads.com/author/show/7621.Jim_Thompson",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403187402i/298663._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/298663.The_Killer_Inside_Me"
+  },
+  {
+   "name": "Foucault’s Pendulum",
+   "url": "https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum",
+   "author": "Umberto Eco",
+   "author_url": "https://www.goodreads.com/author/show/1730.Umberto_Eco",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396645125i/17841._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum"
+  },
+  {
+   "name": "A Place of Execution",
+   "url": "https://www.goodreads.com/book/show/91487.A_Place_of_Execution",
+   "author": "Val McDermid",
+   "author_url": "https://www.goodreads.com/author/show/5672.Val_McDermid",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311971779i/91487._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/91487.A_Place_of_Execution"
+  },
+  {
+   "name": "Devil in a Blue Dress (Easy Rawlins, #1)",
+   "url": "https://www.goodreads.com/book/show/37100.Devil_in_a_Blue_Dress",
+   "author": "Walter Mosley",
+   "author_url": "https://www.goodreads.com/author/show/20850.Walter_Mosley",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336545202i/37100._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/37100.Devil_in_a_Blue_Dress"
+  },
+  {
+   "name": "One Flew Over the Cuckoo’s Nest",
+   "url": "https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest",
+   "author": "Ken Kesey",
+   "author_url": "https://www.goodreads.com/author/show/7285.Ken_Kesey",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516211014i/332613._SX50_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest"
+  },
+  {
+   "name": "The Cuckoo's Calling (Cormoran Strike, #1)",
+   "url": "https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling",
+   "author": "Robert Galbraith",
+   "author_url": "https://www.goodreads.com/author/show/383606.Robert_Galbraith",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136i/16160797._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling"
+  },
+  {
+   "name": "Hold Tight",
+   "url": "https://www.goodreads.com/book/show/2177236.Hold_Tight",
+   "author": "(Goodreads Author)",
+   "author_url": "https://www.goodreads.com/author/show/24689.Harlan_Coben",
+   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433737434i/2177236._SY75_.jpg",
+   "image_url": "https://www.goodreads.com/book/show/2177236.Hold_Tight"
+  }
+ ]
+}
